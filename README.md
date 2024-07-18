@@ -1,6 +1,6 @@
 # Library-Management-System-MERN-master
 
-# Features
+## Features
 - Admin Login and Student Login
 - Admin and Student Dashboard
 - Adding Library Members
