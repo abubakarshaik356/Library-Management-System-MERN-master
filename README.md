@@ -22,3 +22,9 @@
 3. Create a MongoDB account and get the MONOGO_URL for connecting the server and the Database
 4. Create a .env file and create variables as mentioned in the .env.example with the values
 5. Run nodemon server.js to start the server [Should have installed nodemon globally]
+
+#Technologies Used
+1. NodeJS
+2. MongoDB
+3. ReactJS
+4. ExpressJS
