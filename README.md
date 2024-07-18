@@ -23,7 +23,7 @@
 4. Create a .env file and create variables as mentioned in the .env.example with the values
 5. Run nodemon server.js to start the server [Should have installed nodemon globally]
 
-###Technologies Used
+### Technologies Used
 1. NodeJS
 2. MongoDB
 3. ReactJS
