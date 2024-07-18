@@ -9,7 +9,7 @@
 - Reserving a book for specific dates
 - Showing the Achievements, Event Gallery
 
-# Setup
+## Setup
 ### Frontend Setup
 1. Get into the chatapp directory cd frontend
 2. Run yarn to install dependencies
